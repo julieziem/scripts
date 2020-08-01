@@ -1,5 +1,5 @@
-#!/bin/bash
+i#!/bin/bash
 
 
-yum install httpd samba -y
+yum install httpd ntp samba -y
 
