@@ -13,3 +13,5 @@ lscpu
 nproc
 cat /etc/*release
 lsblk
+
+echo "everything ran successfully"
